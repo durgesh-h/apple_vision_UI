@@ -2,4 +2,4 @@
  Clone of apple vision website
 
 
-# URL - https://applevision.zeta.vercel.app
+# URL - https://applevision-zeta.vercel.app
